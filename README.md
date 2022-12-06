@@ -6,7 +6,7 @@
 3. check for even number;
 4. the program shows all even numbers from 1 to n, n is entered  by the user;
 
-## **2 task:**:
+## **2 task:**
 1. the program takes a three-digit number and shows the second digit;
 2. The program accepts a number and shows the third digit, if   it  is not there, reports it;
 3. the program takes a number and tells you what day of the week i t is;
